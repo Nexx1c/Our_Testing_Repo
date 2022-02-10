@@ -38,7 +38,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/nexx1c/our_testing_repo/Images/Project Icon.png"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Nexx1c/Our_Testing_Repo/blob/main/Images/Project%20icon.png"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/nexx1c/our_testing_repo/">View Demo</a>
