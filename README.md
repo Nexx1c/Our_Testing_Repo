@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nexx1c/Our_Testing_Repo/blob/main/"">
+  <a href="https://github.com/Nexx1c/Our_Testing_Repo/"">
     <img src="Images/Project%20icon.png" alt="Logo" width="80" height="80">
   </a>
 
