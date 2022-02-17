@@ -614,4 +614,34 @@ ickfamnaffmfjgecbbnhecdnmjknblic,,2020-12-26,2020-12-26,https://habr.com/en/comp
 bmcnncbmipphlkdmgfbipbanmmfdamkd,,2020-12-26,2020-12-26,https://habr.com/en/company/yandex/blog/534586/,https://www.kaspersky.com/blog/chrome-plugins-alert/38242/,,Malsware,Google_Search,0,1,“These extensions have not all been confirmed to be malicious by other third-party researchers.  EXT-NAME was a best effort and could be wrong.”
 miejmllodobdobgjbeonandkjhnhpjbn,,2020-12-26,2020-12-26,https://habr.com/en/company/yandex/blog/534586/,https://www.kaspersky.com/blog/chrome-plugins-alert/38242/,,Malsware,Google_Search,0,1,“These extensions have not all been confirmed to be malicious by other third-party researchers.  EXT-NAME was a best effort and could be wrong.”
 mabdjppmcjpjploliggpbonahnjjlgkf,“Microsoft Authenticator”,2021-05-18,2021-05-18,https://www.ghacks.net/2021/05/18/dont-download-this-microsoft-authenticator-extension-for-chrome-it-is-fake/,https://www.ghacks.net/2021/05/18/dont-download-this-microsoft-authenticator-extension-for-chrome-it-is-fake/,,Malsware,Google_Search,1,0,“The extension was ‘Offered by:  Extensions’ in the Chrome Web Store and is the easy giveaway.”
-jeoacafpbcihiomhlakheieifhpjdfeo,“Disconnect”,2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,,Found in environment.”
+jeoacafpbcihiomhlakheieifhpjdfeo,“Disconnect”,2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+fjoaledfpmneenckfbpdfhkmimnjocfa,"Nordvpn",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+fcfhplploccackoneaefokcmbjfbkenj,"1clickvpn",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+jplnlifepflhkbkgonidnobkakhmpnmh,"Private Internet Access",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+ailoabdmgclmfmhdagmlohpjlbpffblp,"Surf Shark",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+dfkdflfgjdajbhocmfjolpjbebdkcjog,"Phanthom Avira VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+bbjhlniigmfjhenjhfllfngbcbkcbghc,"Urban VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+imikkmafgbjjghjeelijedabggogfdgo,"iTop VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+ghlhknlbgiefmfnbpjcgikhhgoobocen,"Anonine VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+noaflfgdoindheknalgiekgjlfdecogn,"Flash VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+icpklikeghomkemdellmmkoifgfbakio,"anonymoX",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+oanalonfhlheemiecggckajkhhjpmake,"Express VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+gbmdmipapolaohpinhblmcnpmmlgfgje,""Unblock Websites - Free VPN Proxy - ProxyFish
+"",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+liafhjblpnimknccffddoiglnfgneaib,"Web Protection for Chrome",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+pgogbeeleccaogghlpmoilbegdhacfnn,"Web Protection for Chrome",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+omghfjlpggmjjaagoclmmobgdodcjboh,"BrowSec",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+akncjgblpooaigmieecjiigaebgblnaj,"Savefrom.net Helper",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+poeojclicodamonabcabmapamjkkmnnk,"Hidemyass (HMA's free web proxy)",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+pekcnopmdcbjdgmpnpkndppflpldnkkp,"Hide My IP",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+ffbkglfijbcbgblgflchnbphjdllaogb,"Cyber Ghost VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+bfidboloedlamgdmenmlbipfnccokknp,"PureVPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+fdcgdnkidjaadafnichfpabhfomcebme,"ZenMate VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+bibjcjfmgapbfoljiojpipaooddpkpai,"VPNPro",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+dkiamlponijemjigcekncmmiopaoecho,"Keepvid",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+bihmplhobchoageeokmgbdihknkjbknd,"Touch VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+mnloefcpaepkpmhaoipjkpikbnkmbnic,"Proxy Helper",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+ahcoedgggbhcdgmhhhhliafnbcifmdln,"Strong VPN",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+keadechokmcohlcampccppbjjeabghcd,"quicksearchtool",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+fcgkcfeognaadiinfndapngidgpnkjnf,"iwin",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
+icbhbegbnafpiiaomogcddhhjpijpikp,"mapsgalaxy",2022-02-17,2022-02-17,Internal,,,Malware,Internal,0,0,"Found in environment.”
